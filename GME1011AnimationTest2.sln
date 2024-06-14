@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GME1011AnimationTest2", "GME1011AnimationTest2\GME1011AnimationTest2.csproj", "{F653CDB8-0528-415A-A59E-F6A5354FDB69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F653CDB8-0528-415A-A59E-F6A5354FDB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F653CDB8-0528-415A-A59E-F6A5354FDB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F653CDB8-0528-415A-A59E-F6A5354FDB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F653CDB8-0528-415A-A59E-F6A5354FDB69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {613AF044-E985-45BD-8D7C-495D19DA0651}
+	EndGlobalSection
+EndGlobal
